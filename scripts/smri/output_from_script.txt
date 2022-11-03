@@ -1,0 +1,46 @@
+subjectlist
+10332,1,1
+10332,1,1
+10332,1,2
+10332,1,2
+9036,2,2
+9036,2,2
+9036,2,2
+9036,2,2
+10126,1,1
+10126,1,1
+10126,1,2
+10126,1,2
+9012,2,1
+9012,2,1
+9012,2,1
+9012,2,1
+9012,2,2
+9012,2,2
+9044,2,1
+9044,2,1
+9044,2,2
+9044,2,2
+dirnames
+3D_Volume1
+ORIG 3D_Volume1
+3D_Volume2
+ORIG 3D_Volume2
+3D_Volume2
+3D_Volume2_redo
+ORIG 3D_Volume2
+ORIG 3D_Volume2_redo
+3D_Volume1
+ORIG 3D_Volume1
+3D_Volume2
+ORIG 3D_Volume2
+3D_Volume2
+3D_Volume3
+ORIG 3D_Volume2
+ORIG 3D_Volume3
+3D_Volume1
+ORIG 3D_Volume1
+3D_Volume1
+ORIG 3D_Volume1
+3D_Volume2
+ORIG 3D_Volume2

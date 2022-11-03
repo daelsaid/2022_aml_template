@@ -1,0 +1,2 @@
+pid,visit,session
+10332,1,2

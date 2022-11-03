@@ -1,0 +1,4 @@
+TASK	PID	Visit	Session	sym1_redo	9492	1	1
+sym2_redo	9492	1	1
+sym3_redo	9492	1	1
+sym4_redo	9492	1	1

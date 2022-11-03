@@ -1,0 +1,10 @@
+comp_dot_run1_redo
+comp_dot_run2_redo
+comp_mix_run1_redo
+comp_mix_run2_redo
+comp_num_run1_1
+comp_num_run1_redo
+comp_num_run2_redo
+resting
+symbolic1_redo
+symbolic2_redo
